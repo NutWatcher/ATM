@@ -1,0 +1,10 @@
+G:\工作\MotoCTP\telnet\telnet\bin\Debug\telnet.dll
+G:\工作\MotoCTP\telnet\telnet\bin\Debug\telnet.pdb
+G:\工作\MotoCTP\telnet\telnet\obj\Debug\ResolveAssemblyReference.cache
+G:\工作\MotoCTP\telnet\telnet\obj\Debug\telnet.dll
+G:\工作\MotoCTP\telnet\telnet\obj\Debug\telnet.pdb
+C:\Users\yzjf\Desktop\telnet\telnet\bin\Debug\telnet.dll
+C:\Users\yzjf\Desktop\telnet\telnet\bin\Debug\telnet.pdb
+C:\Users\yzjf\Desktop\telnet\telnet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yzjf\Desktop\telnet\telnet\obj\Debug\telnet.dll
+C:\Users\yzjf\Desktop\telnet\telnet\obj\Debug\telnet.pdb
